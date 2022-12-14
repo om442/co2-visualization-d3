@@ -1,0 +1,128 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+    "title": "Annual CO₂ emissions per Capita by World Region",
+    "data": {
+        "url": "co2_per_capita.csv",
+        "format": {
+            "type": "csv"
+        }
+    },
+    "width": 800,
+    "height": 400,
+    "layer": [
+        {
+            "mark": "line",
+            "encoding": {
+                "color": {
+                    "type": "nominal",
+                    "field": "country"
+                },
+                "x": {
+                    "type": "temporal",
+                    "field": "year"
+                },
+                "y": {
+                    "type": "quantitative",
+                    "field": "co2_per_capita"
+                }
+            }
+        },
+        {
+            "mark": "point",
+            "encoding": {
+                "opacity": {
+                    "value": 0
+                },
+                "x": {
+                    "type": "temporal",
+                    "field": "year"
+                }
+            },
+            "selection": {
+                "tooltip": {
+                    "type": "single",
+                    "nearest": true,
+                    "on": "mouseover",
+                    "fields": [
+                        "year"
+                    ],
+                    "empty": "none",
+                    "resolve": "global"
+                }
+            }
+        },
+        {
+            "mark": "point",
+            "encoding": {
+                "color": {
+                    "type": "nominal",
+                    "field": "country"
+                },
+                "opacity": {
+                    "condition": {
+                        "selection": "tooltip",
+                        "value": 1
+                    },
+                    "value": 0
+                },
+                "x": {
+                    "type": "temporal",
+                    "field": "year"
+                },
+                "y": {
+                    "type": "quantitative",
+                    "field": "co2_per_capita"
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "rule",
+                "color": "gray"
+            },
+            "encoding": {
+                "x": {
+                    "type": "temporal",
+                    "field": "year"
+                }
+            },
+            "transform": [
+                {
+                    "filter": {
+                        "selection": "tooltip"
+                    }
+                }
+            ]
+        },
+        {
+            "mark": {
+                "type": "text",
+                "align": "left",
+                "dx": 5,
+                "dy": -5
+            },
+            "encoding": {
+                "color": {
+                    "type": "nominal",
+                    "field": "country"
+                },
+                "text": {
+                    "condition": {
+                        "type": "quantitative",
+                        "field": "co2_per_capita",
+                        "selection": "tooltip"
+                    },
+                    "value": " "
+                },
+                "x": {
+                    "type": "temporal",
+                    "field": "year"
+                },
+                "y": {
+                    "type": "quantitative",
+                    "field": "co2_per_capita"
+                }
+            }
+        }
+    ]
+}

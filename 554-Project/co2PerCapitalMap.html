@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="./style.css">
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+</head>
+
+<body>
+    <header> 
+        <p> Blazer Group</p>
+        <p>the best group of 554 class</p>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href="http://localhost:3000/index.html">Home</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2.html">Line Chart 1</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2PerCap.html">Line Chart 2</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2Emission.html">Bar Chart 1</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/pop_bar.html">Bar Chart 2</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/populationMap.html">Map 1</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2PerCapitalMap.html">Map 2</a>
+            </li>
+        </ul>
+    </nav>
+    <div style="margin: auto; text-align: center; padding-top: 20px;">
+        <h2 class="text-center">Co2 Per Capita of the World in 2020</h2>
+        <div id="tooltip2"></div>
+        <svg id="map2"></svg>
+    </div>
+
+    <script src="co2_map.js"></script>
+</body>
+</html>

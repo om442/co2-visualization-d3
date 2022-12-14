@@ -1,0 +1,80 @@
+header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: black;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font-family: Courier;
+  font-size: 0.85em;
+}
+
+text {
+  font-family: Courier;
+  font-size: 0.65em;
+}
+
+svg {
+  display: block;
+  margin: auto;
+  background-color: #fafafa;
+}
+
+.bar {
+  fill: #add8e677;  /* #add8e6 is hex code for lightblue */
+}
+
+text.label {
+  text-anchor: middle;
+  alignment-baseline: central;
+}
+
+text.name {
+  font-weight: bold;
+  text-anchor: middle;
+  alignment-baseline: central;
+}
+
+.button {
+  border-radius: 3px;
+  background-color: #eee;
+  padding: 5px;
+  margin: 5px;
+  cursor: default;
+  font-family: Courier;
+  font-size: 0.85em;
+  font-weight: bold;
+  cursor: default;
+  user-select: none;
+}

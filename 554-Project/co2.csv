@@ -1,0 +1,1134 @@
+country,year,co2
+Africa,1884,0.022
+Africa,1885,0.037
+Africa,1886,0.048
+Africa,1887,0.048
+Africa,1888,0.081
+Africa,1889,0.132
+Africa,1890,0.297
+Africa,1891,0.297
+Africa,1892,0.48
+Africa,1893,1.799
+Africa,1894,2.433
+Africa,1895,3.338
+Africa,1896,4.258
+Africa,1897,4.778
+Africa,1898,6.049
+Africa,1899,5.518
+Africa,1900,2.33
+Africa,1901,3.909
+Africa,1902,5.826
+Africa,1903,7.896
+Africa,1904,8.911
+Africa,1905,10.263
+Africa,1906,11.717
+Africa,1907,12.93
+Africa,1908,13.403
+Africa,1909,15.385
+Africa,1910,17.411
+Africa,1911,16.865
+Africa,1912,17.954
+Africa,1913,19.606
+Africa,1914,19.551
+Africa,1915,19.606
+Africa,1916,23.255
+Africa,1917,25.344
+Africa,1918,24.725
+Africa,1919,25.443
+Africa,1920,28.052
+Africa,1921,27.986
+Africa,1922,23.97
+Africa,1923,29.045
+Africa,1924,30.631
+Africa,1925,32.185
+Africa,1926,34.438
+Africa,1927,33.841
+Africa,1928,34.77
+Africa,1929,35.802
+Africa,1930,33.696
+Africa,1931,29.464
+Africa,1932,26.623
+Africa,1933,28.491
+Africa,1934,32.539
+Africa,1935,35.91
+Africa,1936,39.016
+Africa,1937,41.844
+Africa,1938,44.013
+Africa,1939,46.853
+Africa,1940,49.649
+Africa,1941,54.023
+Africa,1942,58.823
+Africa,1943,60.12
+Africa,1944,66.633
+Africa,1945,67.527
+Africa,1946,68.159
+Africa,1947,67.935
+Africa,1948,71.733
+Africa,1949,77.324
+Africa,1950,93.452
+Africa,1951,99.862
+Africa,1952,108.882
+Africa,1953,110.796
+Africa,1954,116.157
+Africa,1955,128.058
+Africa,1956,133.509
+Africa,1957,139.953
+Africa,1958,148.305
+Africa,1959,147.911
+Africa,1960,156.64
+Africa,1961,162.079
+Africa,1962,166.426
+Africa,1963,176.448
+Africa,1964,193.764
+Africa,1965,213.785
+Africa,1966,221.262
+Africa,1967,237.258
+Africa,1968,257.6
+Africa,1969,278.139
+Africa,1970,302.943
+Africa,1971,332.206
+Africa,1972,352.242
+Africa,1973,378.427
+Africa,1974,388.873
+Africa,1975,387.839
+Africa,1976,420.868
+Africa,1977,433.857
+Africa,1978,463.282
+Africa,1979,500.009
+Africa,1980,536.51
+Africa,1981,549.389
+Africa,1982,572.603
+Africa,1983,595.441
+Africa,1984,650.285
+Africa,1985,666.684
+Africa,1986,690.7
+Africa,1987,690.794
+Africa,1988,726.048
+Africa,1989,699.221
+Africa,1990,659.295
+Africa,1991,689.026
+Africa,1992,668.677
+Africa,1993,708.858
+Africa,1994,719.623
+Africa,1995,771.994
+Africa,1996,783.254
+Africa,1997,812.904
+Africa,1998,838.022
+Africa,1999,830.397
+Africa,2000,886.562
+Africa,2001,884.168
+Africa,2002,892.575
+Africa,2003,967.22
+Africa,2004,1036.686
+Africa,2005,1057.342
+Africa,2006,1090.195
+Africa,2007,1132.293
+Africa,2008,1181.391
+Africa,2009,1191.035
+Africa,2010,1218.023
+Africa,2011,1258.709
+Africa,2012,1253.144
+Africa,2013,1260.316
+Africa,2014,1363.5
+Africa,2015,1322.735
+Africa,2016,1356.719
+Africa,2017,1384.372
+Africa,2018,1385.645
+Africa,2019,1408.479
+Africa,2020,1326.044
+Asia,1830,0.002
+Asia,1831,0.003
+Asia,1832,0.002
+Asia,1833,0.002
+Asia,1834,
+Asia,1835,
+Asia,1836,
+Asia,1837,
+Asia,1838,
+Asia,1839,
+Asia,1840,
+Asia,1841,
+Asia,1842,
+Asia,1843,
+Asia,1844,
+Asia,1845,
+Asia,1846,
+Asia,1847,
+Asia,1848,
+Asia,1849,
+Asia,1850,0.015
+Asia,1851,
+Asia,1852,
+Asia,1853,
+Asia,1854,
+Asia,1855,0.045
+Asia,1856,
+Asia,1857,
+Asia,1858,0.458
+Asia,1859,0.704
+Asia,1860,0.733
+Asia,1861,0.611
+Asia,1862,0.653
+Asia,1863,0.717
+Asia,1864,0.697
+Asia,1865,0.832
+Asia,1866,1.21
+Asia,1867,0.641
+Asia,1868,0.531
+Asia,1869,0.752
+Asia,1870,0.682
+Asia,1871,0.907
+Asia,1872,0.98
+Asia,1873,0.937
+Asia,1874,1.642
+Asia,1875,2.712
+Asia,1876,2.821
+Asia,1877,2.903
+Asia,1878,5.477
+Asia,1879,5.691
+Asia,1880,6.211
+Asia,1881,6.372
+Asia,1882,6.901
+Asia,1883,7.633
+Asia,1884,8.218
+Asia,1885,8.567
+Asia,1886,9.144
+Asia,1887,10.569
+Asia,1888,11.751
+Asia,1889,13.819
+Asia,1890,15.128
+Asia,1891,17.249
+Asia,1892,18.324
+Asia,1893,20.47
+Asia,1894,22.807
+Asia,1895,26.372
+Asia,1896,28.1
+Asia,1897,30.567
+Asia,1898,36.579
+Asia,1899,38.846
+Asia,1900,44.119
+Asia,1901,50.484
+Asia,1902,52.62
+Asia,1903,57.142
+Asia,1904,64.125
+Asia,1905,65.418
+Asia,1906,87.527
+Asia,1907,94.294
+Asia,1908,106.137
+Asia,1909,105.951
+Asia,1910,104.674
+Asia,1911,121.139
+Asia,1912,112.717
+Asia,1913,124.071
+Asia,1914,131.448
+Asia,1915,127.502
+Asia,1916,137.918
+Asia,1917,149.998
+Asia,1918,153.275
+Asia,1919,169.919
+Asia,1920,162.006
+Asia,1921,158.417
+Asia,1922,168.043
+Asia,1923,184.954
+Asia,1924,199.653
+Asia,1925,202.835
+Asia,1926,204.901
+Asia,1927,224.699
+Asia,1928,235.121
+Asia,1929,246.094
+Asia,1930,246.558
+Asia,1931,237.337
+Asia,1932,237.433
+Asia,1933,261.529
+Asia,1934,296.938
+Asia,1935,322.726
+Asia,1936,354.201
+Asia,1937,375.6
+Asia,1938,389.285
+Asia,1939,412.158
+Asia,1940,467.791
+Asia,1941,472.586
+Asia,1942,433.908
+Asia,1943,428.679
+Asia,1944,435.865
+Asia,1945,323.129
+Asia,1946,311.41
+Asia,1947,372.869
+Asia,1948,370.219
+Asia,1949,456.736
+Asia,1950,476.122
+Asia,1951,456.067
+Asia,1952,505.795
+Asia,1953,541.412
+Asia,1954,593.298
+Asia,1955,676.212
+Asia,1956,750.837
+Asia,1957,845.233
+Asia,1958,1139.733
+Asia,1959,1375.522
+Asia,1960,1540.395
+Asia,1961,1395.308
+Asia,1962,1344.446
+Asia,1963,1425.118
+Asia,1964,1509.495
+Asia,1965,1652.064
+Asia,1966,1799.358
+Asia,1967,1827.449
+Asia,1968,2018.387
+Asia,1969,2291.94
+Asia,1970,2699.301
+Asia,1971,2953.833
+Asia,1972,3124.01
+Asia,1973,3355.52
+Asia,1974,3415.347
+Asia,1975,3581.003
+Asia,1976,3806.119
+Asia,1977,4050.961
+Asia,1978,4232.254
+Asia,1979,4405.94
+Asia,1980,4400.905
+Asia,1981,4374.459
+Asia,1982,4524.213
+Asia,1983,4706.387
+Asia,1984,4980.67
+Asia,1985,5272.291
+Asia,1986,5498.753
+Asia,1987,5735.494
+Asia,1988,6205.031
+Asia,1989,6421.483
+Asia,1990,6625.838
+Asia,1991,6956.347
+Asia,1992,7269.585
+Asia,1993,7600.515
+Asia,1994,7931.294
+Asia,1995,8251.608
+Asia,1996,8579.101
+Asia,1997,8691.038
+Asia,1998,8421.434
+Asia,1999,8678.316
+Asia,2000,9091.055
+Asia,2001,9259.172
+Asia,2002,9779.534
+Asia,2003,10716.11
+Asia,2004,11681.501
+Asia,2005,12522.219
+Asia,2006,13363.128
+Asia,2007,14080.908
+Asia,2008,14811.211
+Asia,2009,15412.3
+Asia,2010,16530.951
+Asia,2011,17746.631
+Asia,2012,18456.301
+Asia,2013,18714.336
+Asia,2014,19018.803
+Asia,2015,19135.91
+Asia,2016,19218.166
+Asia,2017,19653.514
+Asia,2018,20254.369
+Asia,2019,20608.592
+Asia,2020,20317.059
+Europe,1750,9.351
+Europe,1751,9.351
+Europe,1752,9.354
+Europe,1753,9.354
+Europe,1754,9.358
+Europe,1755,9.362
+Europe,1756,10.006
+Europe,1757,10.01
+Europe,1758,10.014
+Europe,1759,10.017
+Europe,1760,10.017
+Europe,1761,10.974
+Europe,1762,10.977
+Europe,1763,10.981
+Europe,1764,10.985
+Europe,1765,10.988
+Europe,1766,12.26
+Europe,1767,12.263
+Europe,1768,12.267
+Europe,1769,12.271
+Europe,1770,12.274
+Europe,1771,13.612
+Europe,1772,13.615
+Europe,1773,13.619
+Europe,1774,13.623
+Europe,1775,13.626
+Europe,1776,15.037
+Europe,1777,15.041
+Europe,1778,15.044
+Europe,1779,15.048
+Europe,1780,15.055
+Europe,1781,16.843
+Europe,1782,16.847
+Europe,1783,16.854
+Europe,1784,16.858
+Europe,1785,16.865
+Europe,1786,19.148
+Europe,1787,19.155
+Europe,1788,19.159
+Europe,1789,19.166
+Europe,1790,19.174
+Europe,1791,21.416
+Europe,1792,21.892
+Europe,1793,21.911
+Europe,1794,21.878
+Europe,1795,21.889
+Europe,1796,22.948
+Europe,1797,24.091
+Europe,1798,25.091
+Europe,1799,26.425
+Europe,1800,27.835
+Europe,1801,27.689
+Europe,1802,36.49
+Europe,1803,31.188
+Europe,1804,33.973
+Europe,1805,33.075
+Europe,1806,34.709
+Europe,1807,36.493
+Europe,1808,34.669
+Europe,1809,34.683
+Europe,1810,36.959
+Europe,1811,39.132
+Europe,1812,40.52
+Europe,1813,40.696
+Europe,1814,41.564
+Europe,1815,42.883
+Europe,1816,46.998
+Europe,1817,48.709
+Europe,1818,48.859
+Europe,1819,49.182
+Europe,1820,49.893
+Europe,1821,50.604
+Europe,1822,52.597
+Europe,1823,55.645
+Europe,1824,57.506
+Europe,1825,59.617
+Europe,1826,60.101
+Europe,1827,64.464
+Europe,1828,65.04
+Europe,1829,64.596
+Europe,1830,87.029
+Europe,1831,82.258
+Europe,1832,82.083
+Europe,1833,83.273
+Europe,1834,85.1
+Europe,1835,86.126
+Europe,1836,100.042
+Europe,1837,99.382
+Europe,1838,103.01
+Europe,1839,106.091
+Europe,1840,113.053
+Europe,1841,116.402
+Europe,1842,122.583
+Europe,1843,125.085
+Europe,1844,132.113
+Europe,1845,144.003
+Europe,1846,145.058
+Europe,1847,157.299
+Europe,1848,156.991
+Europe,1849,165.243
+Europe,1850,177.03
+Europe,1851,174.102
+Europe,1852,180.676
+Europe,1853,186.945
+Europe,1854,221.855
+Europe,1855,221.81
+Europe,1856,237.075
+Europe,1857,238.618
+Europe,1858,241.801
+Europe,1859,254.973
+Europe,1860,281.812
+Europe,1861,300.478
+Europe,1862,305.04
+Europe,1863,321.23
+Europe,1864,346.627
+Europe,1865,371.214
+Europe,1866,383.59
+Europe,1867,401.82
+Europe,1868,406.191
+Europe,1869,425.356
+Europe,1870,431.41
+Europe,1871,459.742
+Europe,1872,496.532
+Europe,1873,522.498
+Europe,1874,484.545
+Europe,1875,534.636
+Europe,1876,547.124
+Europe,1877,545.932
+Europe,1878,551.744
+Europe,1879,569.566
+Europe,1880,640.718
+Europe,1881,657.749
+Europe,1882,680.172
+Europe,1883,718.737
+Europe,1884,714.114
+Europe,1885,716.627
+Europe,1886,715.953
+Europe,1887,743.251
+Europe,1888,787.469
+Europe,1889,824.518
+Europe,1890,862.528
+Europe,1891,892.962
+Europe,1892,879.268
+Europe,1893,854.818
+Europe,1894,927.854
+Europe,1895,952.554
+Europe,1896,996.091
+Europe,1897,1045.58
+Europe,1898,1079.071
+Europe,1899,1149.406
+Europe,1900,1205.634
+Europe,1901,1195.102
+Europe,1902,1195.967
+Europe,1903,1245.051
+Europe,1904,1268.305
+Europe,1905,1305.576
+Europe,1906,1347.296
+Europe,1907,1492.693
+Europe,1908,1517.106
+Europe,1909,1518.711
+Europe,1910,1538.492
+Europe,1911,1573.985
+Europe,1912,1632.356
+Europe,1913,1767.217
+Europe,1914,1573.793
+Europe,1915,1492.706
+Europe,1916,1561.015
+Europe,1917,1533.267
+Europe,1918,1394.054
+Europe,1919,1183.761
+Europe,1920,1373.671
+Europe,1921,1253.115
+Europe,1922,1397.865
+Europe,1923,1335.673
+Europe,1924,1541.491
+Europe,1925,1526.763
+Europe,1926,1308.385
+Europe,1927,1670.139
+Europe,1928,1676.785
+Europe,1929,1820.242
+Europe,1930,1721.169
+Europe,1931,1606.566
+Europe,1932,1492.846
+Europe,1933,1537.176
+Europe,1934,1682.142
+Europe,1935,1766.803
+Europe,1936,1876.495
+Europe,1937,2036.583
+Europe,1938,2045.975
+Europe,1939,2094.155
+Europe,1940,2227.796
+Europe,1941,2142.812
+Europe,1942,1996.335
+Europe,1943,2002.95
+Europe,1944,1889.258
+Europe,1945,1233.343
+Europe,1946,1656.559
+Europe,1947,1907.211
+Europe,1948,2055.523
+Europe,1949,2242.201
+Europe,1950,2382.639
+Europe,1951,2629.48
+Europe,1952,2713.203
+Europe,1953,2790.667
+Europe,1954,2969.121
+Europe,1955,3232.662
+Europe,1956,3444.108
+Europe,1957,3592.022
+Europe,1958,3630.382
+Europe,1959,3711.831
+Europe,1960,3961.923
+Europe,1961,4106.401
+Europe,1962,4333.286
+Europe,1963,4607.006
+Europe,1964,4836.004
+Europe,1965,4978.52
+Europe,1966,5149.149
+Europe,1967,5262.923
+Europe,1968,5508.267
+Europe,1969,5808.331
+Europe,1970,6090.346
+Europe,1971,6312.748
+Europe,1972,6541.129
+Europe,1973,6833.579
+Europe,1974,6851.164
+Europe,1975,6889.733
+Europe,1976,7264.646
+Europe,1977,7320.281
+Europe,1978,7552.391
+Europe,1979,7732.355
+Europe,1980,7735.702
+Europe,1981,7453.972
+Europe,1982,7394.331
+Europe,1983,7400.813
+Europe,1984,7451.776
+Europe,1985,7775.661
+Europe,1986,7788.33
+Europe,1987,7812.748
+Europe,1988,7846.139
+Europe,1989,7813.968
+Europe,1990,8015.589
+Europe,1991,7714.386
+Europe,1992,7078.817
+Europe,1993,6791.984
+Europe,1994,6433.785
+Europe,1995,6415.241
+Europe,1996,6464.354
+Europe,1997,6258.128
+Europe,1998,6232.187
+Europe,1999,6147.589
+Europe,2000,6149.034
+Europe,2001,6275.941
+Europe,2002,6241.656
+Europe,2003,6387.841
+Europe,2004,6419.13
+Europe,2005,6410.33
+Europe,2006,6509.434
+Europe,2007,6457.353
+Europe,2008,6384.572
+Europe,2009,5871.171
+Europe,2010,6098.535
+Europe,2011,6023.668
+Europe,2012,5972.231
+Europe,2013,5815.575
+Europe,2014,5589.757
+Europe,2015,5594.384
+Europe,2016,5590.253
+Europe,2017,5620.307
+Europe,2018,5593.058
+Europe,2019,5430.239
+Europe,2020,4946.035
+North America,1785,0.004
+North America,1786,0.004
+North America,1787,0.004
+North America,1788,0.004
+North America,1789,0.004
+North America,1790,0.004
+North America,1791,0.004
+North America,1792,0.004
+North America,1793,0.004
+North America,1794,0.004
+North America,1795,0.004
+North America,1796,0.004
+North America,1797,0.004
+North America,1798,0.004
+North America,1799,0.004
+North America,1800,0.256
+North America,1801,0.271
+North America,1802,0.293
+North America,1803,0.3
+North America,1804,0.337
+North America,1805,0.344
+North America,1806,0.337
+North America,1807,0.381
+North America,1808,0.396
+North America,1809,0.407
+North America,1810,0.421
+North America,1811,0.451
+North America,1812,0.487
+North America,1813,0.524
+North America,1814,0.564
+North America,1815,0.605
+North America,1816,0.667
+North America,1817,0.722
+North America,1818,0.784
+North America,1819,0.766
+North America,1820,0.795
+North America,1821,0.832
+North America,1822,0.868
+North America,1823,0.905
+North America,1824,1.019
+North America,1825,1.14
+North America,1826,1.319
+North America,1827,1.451
+North America,1828,1.598
+North America,1829,1.799
+North America,1830,2.092
+North America,1831,2.268
+North America,1832,3.026
+North America,1833,3.532
+North America,1834,3.386
+North America,1835,4.32
+North America,1836,4.734
+North America,1837,5.309
+North America,1838,5.034
+North America,1839,5.522
+North America,1840,5.877
+North America,1841,6.218
+North America,1842,6.921
+North America,1843,7.768
+North America,1844,9.31
+North America,1845,11.208
+North America,1846,12.736
+North America,1847,15.103
+North America,1848,16.825
+North America,1849,18.269
+North America,1850,19.852
+North America,1851,24.703
+North America,1852,26.875
+North America,1853,30.265
+North America,1854,33.284
+North America,1855,38.311
+North America,1856,40.216
+North America,1857,41.271
+North America,1858,41.912
+North America,1859,45.635
+North America,1860,47.819
+North America,1861,46.137
+North America,1862,48.009
+North America,1863,55.513
+North America,1864,59.5
+North America,1865,59.84
+North America,1866,60.474
+North America,1867,74.46
+North America,1868,83.297
+North America,1869,94.381
+North America,1870,99.844
+North America,1871,104.801
+North America,1872,128.152
+North America,1873,141.115
+North America,1874,135.92
+North America,1875,137.624
+North America,1876,134.678
+North America,1877,149.198
+North America,1878,145.838
+North America,1879,177.653
+North America,1880,203.916
+North America,1881,215.784
+North America,1882,242.011
+North America,1883,261.313
+North America,1884,276.189
+North America,1885,280.406
+North America,1886,296.26
+North America,1887,317.53
+North America,1888,387.186
+North America,1889,346.835
+North America,1890,414.161
+North America,1891,441.886
+North America,1892,464.918
+North America,1893,469.48
+North America,1894,439.769
+North America,1895,493.974
+North America,1896,496.11
+North America,1897,515.775
+North America,1898,561.766
+North America,1899,645.459
+North America,1900,684.367
+North America,1901,746.685
+North America,1902,791.569
+North America,1903,923.924
+North America,1904,916.873
+North America,1905,1023.577
+North America,1906,1074.779
+North America,1907,1253.117
+North America,1908,1103.992
+North America,1909,1214.811
+North America,1910,1327.425
+North America,1911,1327.462
+North America,1912,1419.667
+North America,1913,1533.79
+North America,1914,1396.793
+North America,1915,1443.461
+North America,1916,1613.036
+North America,1917,1782.873
+North America,1918,1868.648
+North America,1919,1596.982
+North America,1920,1899.938
+North America,1921,1595.441
+North America,1922,1591.5
+North America,1923,2062.964
+North America,1924,1845.232
+North America,1925,1892.376
+North America,1926,2037.96
+North America,1927,1989.282
+North America,1928,1953.447
+North America,1929,2090.043
+North America,1930,1865.62
+North America,1931,1582.574
+North America,1932,1349.391
+North America,1933,1441.233
+North America,1934,1542.101
+North America,1935,1600.189
+North America,1936,1830.039
+North America,1937,1921.476
+North America,1938,1637.416
+North America,1939,1801.314
+North America,1940,2020.177
+North America,1941,2199.466
+North America,1942,2360.895
+North America,1943,2442.572
+North America,1944,2620.135
+North America,1945,2528.287
+North America,1946,2437.62
+North America,1947,2676.599
+North America,1948,2790.213
+North America,1949,2352.74
+North America,1950,2744.654
+North America,1951,2840.649
+North America,1952,2768.178
+North America,1953,2831.917
+North America,1954,2718.204
+North America,1955,2966.227
+North America,1956,3124.031
+North America,1957,3103.255
+North America,1958,3022.679
+North America,1959,3114.884
+North America,1960,3189.112
+North America,1961,3184.35
+North America,1962,3309.377
+North America,1963,3442.291
+North America,1964,3621.031
+North America,1965,3771.441
+North America,1966,3956.276
+North America,1967,4126.963
+North America,1968,4289.368
+North America,1969,4501.68
+North America,1970,4862.418
+North America,1971,4916.076
+North America,1972,5162.109
+North America,1973,5397.123
+North America,1974,5251.286
+North America,1975,5127.969
+North America,1976,5434.561
+North America,1977,5591.029
+North America,1978,5676.991
+North America,1979,5792.359
+North America,1980,5621.039
+North America,1981,5495.52
+North America,1982,5263.63
+North America,1983,5203.537
+North America,1984,5461.844
+North America,1985,5465.18
+North America,1986,5450.086
+North America,1987,5656.467
+North America,1988,5906.086
+North America,1989,6018.1
+North America,1990,5984.512
+North America,1991,5932.717
+North America,1992,6057.23
+North America,1993,6163.882
+North America,1994,6288.26
+North America,1995,6350.638
+North America,1996,6576.288
+North America,1997,6695.065
+North America,1998,6765.938
+North America,1999,6861.782
+North America,2000,7107.692
+North America,2001,7014.631
+North America,2002,7068.126
+North America,2003,7183.859
+North America,2004,7282.769
+North America,2005,7330.253
+North America,2006,7265.229
+North America,2007,7376.088
+North America,2008,7158.262
+North America,2009,6670.754
+North America,2010,6875.767
+North America,2011,6771.608
+North America,2012,6580.283
+North America,2013,6714.923
+North America,2014,6753.943
+North America,2015,6612.704
+North America,2016,6471.359
+North America,2017,6412.982
+North America,2018,6588.63
+North America,2019,6460.726
+North America,2020,5775.159
+Oceania,1860,0.278
+Oceania,1861,0.509
+Oceania,1862,0.355
+Oceania,1863,0.399
+Oceania,1864,0.267
+Oceania,1865,0.421
+Oceania,1866,0.696
+Oceania,1867,0.894
+Oceania,1868,0.733
+Oceania,1869,0.641
+Oceania,1870,0.601
+Oceania,1871,0.692
+Oceania,1872,0.707
+Oceania,1873,0.868
+Oceania,1874,0.89
+Oceania,1875,0.828
+Oceania,1876,0.931
+Oceania,1877,1.066
+Oceania,1878,1.323
+Oceania,1879,1.96
+Oceania,1880,2.862
+Oceania,1881,2.503
+Oceania,1882,2.84
+Oceania,1883,3.353
+Oceania,1884,3.631
+Oceania,1885,4.034
+Oceania,1886,4.067
+Oceania,1887,4.272
+Oceania,1888,4.891
+Oceania,1889,4.738
+Oceania,1890,4.968
+Oceania,1891,5.5
+Oceania,1892,5.654
+Oceania,1893,5.507
+Oceania,1894,5.969
+Oceania,1895,6.214
+Oceania,1896,6.273
+Oceania,1897,6.852
+Oceania,1898,7.636
+Oceania,1899,7.962
+Oceania,1900,12.608
+Oceania,1901,14.18
+Oceania,1902,14.436
+Oceania,1903,14.389
+Oceania,1904,14.978
+Oceania,1905,15.587
+Oceania,1906,18.221
+Oceania,1907,19.562
+Oceania,1908,20.907
+Oceania,1909,18.818
+Oceania,1910,22.339
+Oceania,1911,23.849
+Oceania,1912,25.648
+Oceania,1913,26.604
+Oceania,1914,29.561
+Oceania,1915,26.725
+Oceania,1916,24.311
+Oceania,1917,25.377
+Oceania,1918,27.484
+Oceania,1919,25.868
+Oceania,1920,29.29
+Oceania,1921,26.652
+Oceania,1922,27.905
+Oceania,1923,28.685
+Oceania,1924,31.06
+Oceania,1925,32.324
+Oceania,1926,32.126
+Oceania,1927,33.39
+Oceania,1928,31.001
+Oceania,1929,28.546
+Oceania,1930,26.894
+Oceania,1931,23.784
+Oceania,1932,23.88
+Oceania,1933,25.126
+Oceania,1934,26.68
+Oceania,1935,29.379
+Oceania,1936,31.225
+Oceania,1937,33.236
+Oceania,1938,32.281
+Oceania,1939,36.603
+Oceania,1940,33.797
+Oceania,1941,39.546
+Oceania,1942,41.598
+Oceania,1943,40.36
+Oceania,1944,39.678
+Oceania,1945,38.314
+Oceania,1946,40.952
+Oceania,1947,43.465
+Oceania,1948,43.923
+Oceania,1949,43.255
+Oceania,1950,63.714
+Oceania,1951,67.687
+Oceania,1952,70.254
+Oceania,1953,68.667
+Oceania,1954,77.701
+Oceania,1955,81.152
+Oceania,1956,84.276
+Oceania,1957,86.298
+Oceania,1958,88.946
+Oceania,1959,95.053
+Oceania,1960,100.973
+Oceania,1961,103.677
+Oceania,1962,107.209
+Oceania,1963,114.488
+Oceania,1964,124.049
+Oceania,1965,136.725
+Oceania,1966,136.762
+Oceania,1967,145.475
+Oceania,1968,151.161
+Oceania,1969,159.429
+Oceania,1970,165.833
+Oceania,1971,172.156
+Oceania,1972,177.758
+Oceania,1973,194.305
+Oceania,1974,196.74
+Oceania,1975,199.435
+Oceania,1976,198.481
+Oceania,1977,213.266
+Oceania,1978,224.62
+Oceania,1979,226.513
+Oceania,1980,243.555
+Oceania,1981,252.122
+Oceania,1982,257.191
+Oceania,1983,247.75
+Oceania,1984,260.634
+Oceania,1985,268.324
+Oceania,1986,268.056
+Oceania,1987,285.61
+Oceania,1988,291.932
+Oceania,1989,308.604
+Oceania,1990,310.806
+Oceania,1991,314.08
+Oceania,1992,320.5
+Oceania,1993,325.386
+Oceania,1994,334.463
+Oceania,1995,342.544
+Oceania,1996,352.409
+Oceania,1997,365.18
+Oceania,1998,375.644
+Oceania,1999,385.045
+Oceania,2000,391.609
+Oceania,2001,402.96
+Oceania,2002,410.452
+Oceania,2003,419.24
+Oceania,2004,433.075
+Oceania,2005,435.514
+Oceania,2006,445.148
+Oceania,2007,450.934
+Oceania,2008,458.011
+Oceania,2009,447.206
+Oceania,2010,451.189
+Oceania,2011,451.909
+Oceania,2012,450.68
+Oceania,2013,441.04
+Oceania,2014,449.238
+Oceania,2015,454.01
+Oceania,2016,465.736
+Oceania,2017,466.026
+Oceania,2018,467.725
+Oceania,2019,471.189
+Oceania,2020,444.571
+South America,1884,0.004
+South America,1885,0.004
+South America,1886,0.007
+South America,1887,1.092
+South America,1888,0.898
+South America,1889,1.762
+South America,1890,1.381
+South America,1891,0.986
+South America,1892,1.451
+South America,1893,1.601
+South America,1894,2.034
+South America,1895,2.829
+South America,1896,2.88
+South America,1897,2.759
+South America,1898,3.177
+South America,1899,3.715
+South America,1900,3.166
+South America,1901,6.401
+South America,1902,7.379
+South America,1903,7.676
+South America,1904,8.665
+South America,1905,9.211
+South America,1906,12.329
+South America,1907,12.685
+South America,1908,14.887
+South America,1909,13.407
+South America,1910,17.246
+South America,1911,19.163
+South America,1912,19.991
+South America,1913,21.123
+South America,1914,17.195
+South America,1915,15.088
+South America,1916,13.619
+South America,1917,10.867
+South America,1918,10.999
+South America,1919,12.901
+South America,1920,14.641
+South America,1921,14.429
+South America,1922,17.162
+South America,1923,19.76
+South America,1924,24.333
+South America,1925,26.384
+South America,1926,27.381
+South America,1927,30.081
+South America,1928,31.428
+South America,1929,34.424
+South America,1930,29.122
+South America,1931,25.546
+South America,1932,28.96
+South America,1933,32.899
+South America,1934,37.257
+South America,1935,41.081
+South America,1936,39.597
+South America,1937,50.162
+South America,1938,46.273
+South America,1939,47.06
+South America,1940,50.717
+South America,1941,50.753
+South America,1942,48.166
+South America,1943,48.57
+South America,1944,53.866
+South America,1945,54.137
+South America,1946,118.776
+South America,1947,62.107
+South America,1948,69.504
+South America,1949,70.825
+South America,1950,112.577
+South America,1951,131.287
+South America,1952,141.474
+South America,1953,140.643
+South America,1954,151.056
+South America,1955,170.08
+South America,1956,184.182
+South America,1957,192.918
+South America,1958,178.755
+South America,1959,196.996
+South America,1960,199.163
+South America,1961,201.79
+South America,1962,215.67
+South America,1963,219.433
+South America,1964,230.217
+South America,1965,240.18
+South America,1966,252.098
+South America,1967,267.478
+South America,1968,287.794
+South America,1969,311.446
+South America,1970,338.089
+South America,1971,346.784
+South America,1972,362.788
+South America,1973,392.891
+South America,1974,416.699
+South America,1975,412.131
+South America,1976,419.568
+South America,1977,435.041
+South America,1978,461.426
+South America,1979,494.424
+South America,1980,508.467
+South America,1981,489.334
+South America,1982,490.651
+South America,1983,485.837
+South America,1984,491.927
+South America,1985,502.054
+South America,1986,530.17
+South America,1987,557.53
+South America,1988,580.554
+South America,1989,580.184
+South America,1990,595.614
+South America,1991,603.004
+South America,1992,615.051
+South America,1993,650.401
+South America,1994,667.658
+South America,1995,699.156
+South America,1996,725.574
+South America,1997,768.849
+South America,1998,821.329
+South America,1999,839.543
+South America,2000,821.39
+South America,2001,832.246
+South America,2002,847.148
+South America,2003,858.232
+South America,2004,867.759
+South America,2005,902.003
+South America,2006,912.73
+South America,2007,940.749
+South America,2008,1007.52
+South America,2009,991.952
+South America,2010,1082.415
+South America,2011,1103.964
+South America,2012,1159.7
+South America,2013,1218.74
+South America,2014,1230.511
+South America,2015,1204.961
+South America,2016,1164.898
+South America,2017,1156.734
+South America,2018,1091.45
+South America,2019,1065.51
+South America,2020,994.16

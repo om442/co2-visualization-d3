@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "serve": "browser-sync start ./ -s --files './' --directory --watch"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "d3": "^7.6.1"
+  }
+}

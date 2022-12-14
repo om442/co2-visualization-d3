@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./node_modules/d3/dist/d3.min.js"></script>
+</head>
+
+<body>
+    <header> 
+        <p> Blazer Group</p>
+        <p>the best group of 554 class</p>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href="http://localhost:3000/index.html">Home</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2.html">Line Chart 1</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2PerCap.html">Line Chart 2</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2Emission.html">Bar Chart 1</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/pop_bar.html">Bar Chart 2</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/populationMap.html">Map 1</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2PerCapitalMap.html">Map 2</a>
+            </li>
+        </ul>
+    </nav>
+    <div style="margin: auto; text-align: center; padding-top: 20px;">
+        <h2 class="text-center">CO2 Emission of Different Continents in 2020</h2>
+        <div class="text-center mb-2"> Filter by<span class="button filter" id="all">All</span>
+        <span class="button filter" id="top5">Top 5 by value</span>
+        <span class="button filter" id="bottom5">Bottom 5 by value</span>
+      </div>
+      <br>
+      <div class="text-center mb-2">
+        Sort by <span class="button sort" id="alphabetical">Alphabetical sort by name of countries</span>
+        <span class="button sort" id="ascending_co2">Ascending CO2 Emission</span>
+        <span class="button sort" id="descending_co2">Descending Co2 Emission</span>
+      </div>
+      <br>
+      <div class="text-center mb-2">
+          <span class="button" id="reset">Reset button</span>
+      </div>
+      <br>
+      <div id="chart"></div>
+  
+    </div>
+
+    <script src="bar_chart.js"></script>
+</body>
+</html>

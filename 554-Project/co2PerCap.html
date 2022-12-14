@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vega"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite"></script>
+    <!-- Import vega-embed -->
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed"></script>
+
+	<link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <header> 
+        <p> Blazer Group</p>
+        <p>the best group of 554 class</p>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href="http://localhost:3000/index.html">Home</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2.html">Line Chart 1</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2PerCap.html">Line Chart 2</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2Emission.html">Bar Chart 1</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/pop_bar.html">Bar Chart 2</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/populationMap.html">Map 1</a>
+            </li>
+            <li>
+                <a href="http://localhost:3000/co2PerCapitalMap.html">Map 2</a>
+            </li>
+        </ul>
+    </nav>
+    <div style="margin: auto; text-align: center; padding-top: 50px;">
+        <div id="vis_2"></div>
+    </div>
+
+    <script>
+        const spec_2 = "co2_per_capita.json";
+        vegaEmbed('#vis_2', spec_2)
+    </script>
+</body>
+</html>
